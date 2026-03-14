@@ -48,6 +48,7 @@ project-name/
 ```
 
 ---
+steps mention here!
 
 ## ⚙️ Installation
 
@@ -66,7 +67,7 @@ cd project-name
 3. Install dependencies
 
 ```
-npm install
+npm install 
 ```
 
 4. Run the project
@@ -96,4 +97,5 @@ If you want, I can also give:
 * **README specifically for a YouTube-clone project**
 * **README that looks very professional for recruiters**.
 * readme!
-* add some more! completed 
+* add some more!  first completed 
+
