@@ -95,4 +95,5 @@ If you want, I can also give:
 * **A powerful README like top GitHub projects (with badges, screenshots, demo section, etc.)**
 * **README specifically for a YouTube-clone project**
 * **README that looks very professional for recruiters**.
-* readme 
+* readme
+* add some more 
